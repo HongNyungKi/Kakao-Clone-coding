@@ -1,0 +1,9 @@
+.chat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.chat .chat__avatar{
+    width: 50px;
+    border-radius: 40%;
+}
